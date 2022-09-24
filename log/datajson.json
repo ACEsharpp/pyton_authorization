@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "IIN": "020825551436",
+            "name": "fg",
+            "surname": "fg",
+            "age": 4,
+            "hashed_password": "fb2b7fce0940161406a6aa3e4d8b4aa6104014774ffa665743f8d9704f0eb0ec",
+            "Notes": "sadasddsaf"
+        },
+        {
+            "IIN": "030728551436",
+            "name": "asd",
+            "surname": "asd",
+            "age": 55,
+            "hashed_password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5"
+        }
+    ]
+}
